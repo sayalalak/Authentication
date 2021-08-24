@@ -1,0 +1,30 @@
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\Login.exe
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\Login.dll
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\bin\Debug\netcoreapp3.1\Login.pdb
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.AssemblyReference.cache
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.GeneratedMSBuildEditorConfig.editorconfig
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.dll
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.pdb
+N:\k\Real Intern\Belajar\1. .NET\4FundamentalCSharpAgain\Login\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache
+C:\Users\lnath\Downloads\Compressed\Login\Login\bin\Debug\netcoreapp3.1\Login.exe
+C:\Users\lnath\Downloads\Compressed\Login\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+C:\Users\lnath\Downloads\Compressed\Login\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+C:\Users\lnath\Downloads\Compressed\Login\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+C:\Users\lnath\Downloads\Compressed\Login\Login\bin\Debug\netcoreapp3.1\Login.dll
+C:\Users\lnath\Downloads\Compressed\Login\Login\bin\Debug\netcoreapp3.1\Login.pdb
+C:\Users\lnath\Downloads\Compressed\Login\Login\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+C:\Users\lnath\Downloads\Compressed\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.AssemblyReference.cache
+C:\Users\lnath\Downloads\Compressed\Login\Login\obj\Debug\netcoreapp3.1\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lnath\Downloads\Compressed\Login\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+C:\Users\lnath\Downloads\Compressed\Login\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+C:\Users\lnath\Downloads\Compressed\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\lnath\Downloads\Compressed\Login\Login\obj\Debug\netcoreapp3.1\Login.csproj.CopyComplete
+C:\Users\lnath\Downloads\Compressed\Login\Login\obj\Debug\netcoreapp3.1\Login.dll
+C:\Users\lnath\Downloads\Compressed\Login\Login\obj\Debug\netcoreapp3.1\Login.pdb
+C:\Users\lnath\Downloads\Compressed\Login\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z60elEAJ0YwjJxLPYVVybhcdg4oMZW6tT91dO3zl1UzgL+EczZnqRFlI5C/t0w7gYcL6z5uHHeF9h7BFPAFFtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lnath\\Downloads\\Compressed\\Login\\Login\\Login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lnath\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
